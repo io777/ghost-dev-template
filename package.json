@@ -1,0 +1,49 @@
+{
+  "name": "ghost_dev_template",
+  "version": "1.0.0",
+  "description": "ghost dev template",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.0",
+    "ghost": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-embedlr": "^0.5.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-extract-sourcemap": "^0.1.6",
+    "gulp-if": "^2.0.2",
+    "gulp-livereload": "^4.0.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.2.0",
+    "gulp-sass-glob": "^1.0.9",
+    "gulp-rigger": "^0.5.8",
+    "gulp-uglify": "^3.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.1",
+    "gulp-zip": "^4.2.0",
+    "lazypipe": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "gulp-babel": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/io777/ghost-dev-template.git"
+  },
+  "keywords": ["ghost", "dev", "template"],
+  "author": "SHAP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/io777/ghost-dev-template/issues"
+  },
+  "homepage": "https://github.com/io777/ghost-dev-template#readme"
+}
