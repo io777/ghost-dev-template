@@ -8,12 +8,13 @@
 * автоматическое создание шаблона .zip
 
 1.  _Установка пакетов:_
-    npm i
+    **npm i**
 2.  В файле config.development.json настраивем server ghost
 3.  _Запуск:_
-    gulp
+    **gulp**
 4.  _Создать дистрибутив шаблона (zip):_
-    gulp dist
+    **gulp dist**
 
 Разработка ведется на http://localhost:3000 (автоматический перезапуск при изменении файлов)
+
 server ghost запускается на http://localhost:2369
